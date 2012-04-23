@@ -2,7 +2,7 @@ package com.callback.test;
 
 import java.util.ArrayList;
 
-public class CallbackBinder {
+public class CallbackBinder{
 	ArrayList<CallbackInterfce> a = new ArrayList<CallbackInterfce>();
 
 	public void bindCallback(CallbackInterfce callback){
